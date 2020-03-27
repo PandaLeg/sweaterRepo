@@ -22,7 +22,7 @@ import java.util.Map;
 import java.util.UUID;
 
 // Контроллер это программный модуль который слушает запросы по пути("/greeting") и возвращает что - то
-// В данном случае greeting - шаблон!
+// В данном случае greeting - шаблон
 // Model - это то куда мы будем складывать данные, которые мы хотим вернуть пользователю
 @Controller
 public class MainController {
